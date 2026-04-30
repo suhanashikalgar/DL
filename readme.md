@@ -22,7 +22,7 @@ This repository serves as a structured learning path for Deep Learning. It trans
 
 | Lab | Topic | Dataset | Key Concepts | File Location |
 | :---: | :--- | :--- | :--- | :--- |
-| **Lab 1** | **Introduction to Neural Networks** | MNIST | Implementing foundational Multilayer Perceptron (MLP) architectures using TensorFlow/Keras. Covers data flattening, building sequential dense models, compiling with optimizers, and evaluating classification accuracy. | [`dl_lab1.ipynb`] (./dl_lab1.ipynb)|
+| **Lab 1** | **Introduction to Neural Networks** | MNIST | Implementing foundational Multilayer Perceptron (MLP) architectures using TensorFlow/Keras. Covers data flattening, building sequential dense models, compiling with optimizers, and evaluating classification accuracy. | [`dl_lab1.ipynb`](./dl_lab1.ipynb) |
 | **Lab 2** | **Regularization & Optimization** | MNIST | Addressing model overfitting through advanced techniques: applying Dropout layers, implementing Batch Normalization to stabilize learning, and utilizing L2 Regularization to constrain model weights. | [`dl_lab2.ipynb`](./dl_lab2.ipynb) |
 | **Lab 3** | **Advanced Training Techniques** | MNIST | Enhancing training loops using Custom Callbacks to dynamically monitor performance, and implementing Learning Rate Scheduling to adjust step sizes across epochs for optimal convergence. | [`dl_lab3.ipynb`](./dl_lab3.ipynb) |
 | **Lab 4** | **Convolutional Neural Networks (CNN)** | CIFAR-10 | Constructing CNNs for spatial feature extraction. Concepts include 2D Convolutions, MaxPooling for downsampling, flatten operations, and plotting training graphs for loss and accuracy. | [`dl_lab4.ipynb`](./dl_lab4.ipynb) |
