@@ -8,7 +8,7 @@ Welcome to the **Deep Learning Lab Works** repository! This repository contains 
 
 - [Overview](#-overview)
 - [Lab Breakdown](#-lab-breakdown)
-- [Tech Stack](#-tech-stack)
+
 
 ---
 
